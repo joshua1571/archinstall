@@ -1,0 +1,17 @@
+{
+"custom-commands": [
+        "flatpak --user install flathub --noninteractive -y com.discordapp.Discord",
+        "flatpak --user install flathub --noninteractive -y com.visualstudio.code",
+        "flatpak --user install flathub --noninteractive -y org.mozilla.firefox",
+        "flatpak --user install flathub --noninteractive -y io.neovim.nvim",
+        "flatpak --user install flathub --noninteractive -y com.spotify.Client",
+        "flatpak --user install flathub --noninteractive -y com.transmissionbt.Transmission",
+        "flatpak --user install flathub --noninteractive -y io.mpv.Mpv ",
+        "flatpak --user install flathub --noninteractive -y org.chromium.Chromium",
+        "flatpak --user install flathub --noninteractive -y org.mozilla.Thunderbird",
+        "flatpak --user install flathub --noninteractive -y org.libreoffice.LibreOffice",
+        "flatpak --user install flathub --noninteractive -y io.github.shiftey.Desktop",
+        "flatpak --user install flathub --noninteractive -y com.github.tchx84.Flatseal",
+        ""
+	]
+}
