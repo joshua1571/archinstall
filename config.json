@@ -167,6 +167,7 @@
     "version": "2.5.1",
     "custom-commands": [
         "cd /home/jrh; git clone https://github.com/joshua1571/archinstall.git",
+        ""
     ]
 
 }
