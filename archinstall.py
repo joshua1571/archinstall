@@ -12,7 +12,17 @@ __packages__ = [
 	"tmux",
 	"docker",
 	"flatpak",
-	"neovim"
+	"neovim",
+  	"sway",
+	"swaylock",
+	"swayidle",
+	"waybar",
+	"dmenu",
+	"light",
+	"grim",
+	"slurp",
+	"pavucontrol",
+	"foot",
 ]
 
 # Unmount and close previous runs (Mainly only used for re-runs, but won't hurt.)
