@@ -2,16 +2,14 @@
 
 ### Installation using archiso media
 
-copy creds-template to /tmp/creds.json
-
-archinstall --config config.json --disk_layouts disk-layout.json --creds /tmp/creds.json
-
+archinstall --confifg https://raw.githubusercontent.com/joshua1571/archinstall/master/config.json \
+            --disk_layouts https://raw.githubusercontent.com/joshua1571/archinstall/master/disk-layout.json
 
 ## TODO
 - [x] Get working config files off of vm
     - [x] disk-layout.json
     - [x] config.json
-    - [x] creds.json
+    - [ ] creds.json
 - [ ] packages needed to complete installation
    -  [x] git
    -  [z] ansible
