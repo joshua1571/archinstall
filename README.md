@@ -5,6 +5,7 @@
 archinstall --confifg https://raw.githubusercontent.com/joshua1571/archinstall/master/config.json \
             --disk_layouts https://raw.githubusercontent.com/joshua1571/archinstall/master/disk-layout.json
 
+note: Github raw is cached for 5 minutes. Have to wait to test new changes
 ## TODO
 - [x] Get working config files off of vm
     - [x] disk-layout.json
